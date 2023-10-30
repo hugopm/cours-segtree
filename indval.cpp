@@ -1,4 +1,4 @@
-#include "segtree_bourrin.cpp"
+#include "segtree.cpp"
 #include <bits/stdc++.h>
 #include <random>
 using namespace std;
